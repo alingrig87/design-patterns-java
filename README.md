@@ -8,6 +8,7 @@ Design patterns represent elegant solutions to recurring problems in software de
 Creational patterns provide various ways to create objects, allowing developers flexibility in object instantiation.
 
 ###### - [Singleton Pattern](src/main/java/com/design/patterns/creational/singleton/README.md)
+###### - [Factory Pattern](src/main/java/com/design/patterns/creational/factory/README.md)
 
 ### Structural Patterns
 Structural patterns focus on defining the relationships between objects, enabling a clear understanding of how they work together.

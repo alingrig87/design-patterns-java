@@ -1,6 +1,5 @@
 package com.design.patterns.creational.singleton;
 
-
 // (Lazy Initialization), the singleton instance is created only when needed, i.e.,
 // on the first call to the getInstance() method.
 // This saves resources but requires careful management of concurrent access.
