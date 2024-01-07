@@ -21,5 +21,6 @@ Structural patterns focus on defining the relationships between objects, enablin
 ### Behavioral Patterns
 Behavioral patterns address the interaction and communication between objects, promoting effective collaboration within the software system.
 
-
+###### - [Memento Pattern](src/main/java/com/design/patterns/behavioral/memento/README.md)
+###### - [State Pattern](src/main/java/com/design/patterns/behavioral/state/README.md)
 
