@@ -16,6 +16,10 @@ Creational patterns provide various ways to create objects, allowing developers 
 ### Structural Patterns
 Structural patterns focus on defining the relationships between objects, enabling a clear understanding of how they work together.
 
+
+
 ### Behavioral Patterns
 Behavioral patterns address the interaction and communication between objects, promoting effective collaboration within the software system.
+
+
 
