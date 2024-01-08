@@ -18,6 +18,8 @@ Structural patterns focus on defining the relationships between objects, enablin
 ###### - [Composite Pattern](src/main/java/com/design/patterns/structural/composite/README.md)
 ###### - [Adapter Pattern](src/main/java/com/design/patterns/structural/adapter/README.md)
 ###### - [Decorator Pattern](src/main/java/com/design/patterns/structural/decorator/README.md)
+###### - [Facade Pattern](src/main/java/com/design/patterns/structural/decorator/README.md)
+###### - [Bridge Pattern](src/main/java/com/design/patterns/structural/bridge/README.md)
 
 ### Behavioral Patterns
 Behavioral patterns address the interaction and communication between objects, promoting effective collaboration within the software system.
