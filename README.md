@@ -16,6 +16,8 @@ Creational patterns provide various ways to create objects, allowing developers 
 ### Structural Patterns
 Structural patterns focus on defining the relationships between objects, enabling a clear understanding of how they work together.
 ###### - [Composite Pattern](src/main/java/com/design/patterns/structural/composite/README.md)
+###### - [Adapter Pattern](src/main/java/com/design/patterns/structural/adapter/README.md)
+###### - [Decorator Pattern](src/main/java/com/design/patterns/structural/decorator/README.md)
 
 ### Behavioral Patterns
 Behavioral patterns address the interaction and communication between objects, promoting effective collaboration within the software system.
