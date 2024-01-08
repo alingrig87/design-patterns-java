@@ -25,4 +25,5 @@ Behavioral patterns address the interaction and communication between objects, p
 ###### - [State Pattern](src/main/java/com/design/patterns/behavioral/state/README.md)
 ###### - [Iterator Pattern](src/main/java/com/design/patterns/behavioral/iterator/README.md)
 ###### - [Strategy Pattern](src/main/java/com/design/patterns/behavioral/strategy/README.md)
+###### - [Command Pattern](src/main/java/com/design/patterns/behavioral/command/README.md)
 
